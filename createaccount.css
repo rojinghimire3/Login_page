@@ -1,0 +1,44 @@
+.createaccount_body{
+    border: 5px solid rgb(199, 163, 199);
+    border-radius: 15px;
+  
+    background-color: antiquewhite;
+    width: 55vh;
+    height: 95vh;
+    margin-left: 35%;
+}
+
+.h1{
+    text-align: center;
+}
+
+div{
+    margin: 10px;
+   
+}
+ #fullname{
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15px;
+    width: 65%;
+ }
+ #email, #Password , #retype_password {
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15px;
+    width: 65%;
+ }
+ 
+ #submit{
+    border-radius: 15px;
+    padding: 10px;
+    background-color: green;
+    align-items: center;
+
+ }
+
+ #Back-to-login{
+    margin-left: 35% ;
+ }
